@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi I'm Doug Grubba 👋
+Sr. Software Developer @ Payzer | Full Stack Developer | LAMP
 
-<!--
-**douggrubba/douggrubba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🥸 About
+I am a full stack software developer with experience that ranges from design to managing a team of developers, and everything in between. I have over 20 years of experience using the best open source software at agencies, startups, and corporations.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **Vue, React, Node, Electron**
+- Backend development using **Laravel, Node, Hapi.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Twitter - [@douggrubba](https://twitter.com/douggrubba)
+- LinkedIn - [@douggrubba](https://www.linkedin.com/in/douggrubba)
+- Blog - [douggrubba.com](https://douggrubba.com)
