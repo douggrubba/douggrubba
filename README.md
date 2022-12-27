@@ -9,6 +9,5 @@ Talk to me about
 - Backend development using **Laravel, Node, Hapi.js**
 
 ## 📫 Contact Me
-- Twitter - [@douggrubba](https://twitter.com/douggrubba)
 - LinkedIn - [@douggrubba](https://www.linkedin.com/in/douggrubba)
 - Blog - [douggrubba.com](https://douggrubba.com)
